@@ -1,9 +1,0 @@
-keras
-nltk
-numpy
-pandas
-plotly
-rouge
-sklearn
-tensorflow
-tqdm
